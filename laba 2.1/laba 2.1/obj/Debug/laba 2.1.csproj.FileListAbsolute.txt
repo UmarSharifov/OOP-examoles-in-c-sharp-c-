@@ -1,0 +1,7 @@
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\bin\Debug\laba 2.1.exe.config
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\bin\Debug\laba 2.1.exe
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\bin\Debug\laba 2.1.pdb
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\obj\Debug\laba 2.1.csprojAssemblyReference.cache
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\obj\Debug\laba 2.1.csproj.CoreCompileInputs.cache
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\obj\Debug\laba 2.1.exe
+C:\Users\infol\Desktop\учебники\2 курс\2 семестр\Практикум по решению задач на ЭВМ\Практика\laba 2.1\laba 2.1\obj\Debug\laba 2.1.pdb
